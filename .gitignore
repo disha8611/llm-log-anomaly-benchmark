@@ -1,0 +1,30 @@
+# Data files (too large for git)
+data/
+*.tar.gz
+*.zip
+
+# Results (regenerate from experiments)
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights
+*.pt
+*.bin
+*.safetensors
+best_model.pt
