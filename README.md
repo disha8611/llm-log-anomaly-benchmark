@@ -1,6 +1,6 @@
 # LLM-Enhanced Log Anomaly Detection: A Comprehensive Benchmark
 
-[![arXiv](https://img.shields.io/badge/arXiv-2026.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2026.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2026.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2604.12218)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive benchmark study evaluating Large Language Models, fine-tuned transformers, and traditional methods for automated system log anomaly detection.
@@ -62,7 +62,7 @@ python src/benchmark.py --generate-figures
 @article{patel2026llm,
   title={LLM-Enhanced Log Anomaly Detection: A Comprehensive Benchmark of Large Language Models for Automated System Diagnostics},
   author={Patel, Disha},
-  journal={arXiv preprint arXiv:2026.XXXXX},
+  journal={arXiv preprint arXiv:2604.12218},
   year={2026}
 }
 ```
